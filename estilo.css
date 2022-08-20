@@ -15,20 +15,20 @@ body {
    position: relative;
 }
 
-.logotipo{ 
-   margin:5px 0 0 135px  ;
+.logotipo {
+   margin: 5px 0 0 135px;
 }
 
-.header-nav{ 
+.header-nav {
    position: absolute;
    top: 0px;
-   right:0px ;
+   right: 0px;
 
    height: 100%;
-   
+
 }
 
-.header-nav ul{
+.header-nav ul {
    margin: 0;
    padding: 0;
 
@@ -36,15 +36,16 @@ body {
 
 
 }
-.header-nav li{
-list-style: none;
-display: inline-block;
-margin:0 15px 0 0; 
-padding:13px; 
-color: white;
- 
+
+.header-nav li {
+   list-style: none;
+   display: inline-block;
+   margin: 0 15px 0 0;
+   padding: 13px;
+   color: white;
+
 }
 
-.header-nav .fonte {
+.header-nav a {
    color: white;
 }

@@ -1,0 +1,50 @@
+body {
+   font-family: tahoma, arial, sans-serif;
+   margin: 0;
+   padding: 0;
+}
+
+#principal {
+   width: 1024px;
+   margin: 20px auto;
+}
+
+.header-top {
+   height: 50px;
+   background: #162028;
+   position: relative;
+}
+
+.logotipo{ 
+   margin:5px 0 0 135px  ;
+}
+
+.header-nav{ 
+   position: absolute;
+   top: 0px;
+   right:0px ;
+
+   height: 100%;
+   
+}
+
+.header-nav ul{
+   margin: 0;
+   padding: 0;
+
+
+
+
+}
+.header-nav li{
+list-style: none;
+display: inline-block;
+margin:0 15px 0 0; 
+padding:13px; 
+color: white;
+ 
+}
+
+.header-nav .fonte {
+   color: white;
+}

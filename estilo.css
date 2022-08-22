@@ -69,3 +69,16 @@ body {
   color: #555;
 }
 
+.gallery{color: #555;
+   padding: 0 100px 50px 100px;
+   background: rgba(0, 0, 0, 0.299);
+   overflow: auto;
+   
+}
+
+.gallery-card{
+   width: 32%;
+   float: left;
+   text-align: center;
+}
+

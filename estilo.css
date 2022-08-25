@@ -54,7 +54,8 @@ body {
    
 }
 
-.header-nav a:houve{color: white;}
+.header-nav a:hover{color: white;}
+
 
 .portifolio {
    padding: 50px 100px;
